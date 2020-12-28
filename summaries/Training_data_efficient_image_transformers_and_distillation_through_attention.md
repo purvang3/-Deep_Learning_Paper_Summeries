@@ -1,4 +1,5 @@
-[paper](https://arxiv.org/pdf/2012.12877.pdf) <br />
+[Training data-efficient image transformers
+& distillation through attention](https://arxiv.org/pdf/2012.12877.pdf) <br />
 
 neural networks purely based on attention were shown to address image understanding tasks such as image classification
 such as visual transformer which has to be trained on hundreds of millions of images. This paper is based on

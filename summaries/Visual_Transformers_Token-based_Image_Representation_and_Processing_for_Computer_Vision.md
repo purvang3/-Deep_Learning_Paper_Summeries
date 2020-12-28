@@ -1,4 +1,5 @@
-[paper](https://arxiv.org/pdf/2006.03677.pdf)
+[Visual Transformers: Token-based Image Representation and Processing for
+Computer Vision](https://arxiv.org/pdf/2006.03677.pdf)
 
 Convolutions treat all image pixels equally regardless of importance; explicitly model all concepts across all images,
 regardless of content; and struggle to relate spatially-distant concepts. This paper uses
