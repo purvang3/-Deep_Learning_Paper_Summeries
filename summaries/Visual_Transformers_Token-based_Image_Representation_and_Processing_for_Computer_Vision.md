@@ -51,3 +51,6 @@ is proposed which uses weights that are dependent on previous layer’s visual t
 #### Transformer
 interaction between Visual tokens is done with transformers, which use input-dependent weights by design
 instead of graph convolution,which uses fixed weights.
+Different from graph convolution, in a transformer, weights between tokens are input-dependent and computed as a 
+key query product along with pointwise convolution and non-linearity. and in projector step, fusing of the transformer’s
+output is done with the feature map to refine the feature map’s pixel-array representation.
